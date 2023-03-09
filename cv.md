@@ -1,7 +1,6 @@
 # Igor Gromyko
 
 
-
 # Contacts
 
 * __Location:__ Gomel, Belarus
